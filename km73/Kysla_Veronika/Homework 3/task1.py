@@ -1,0 +1,10 @@
+print("Програма для обчислення суми трьох чисел")
+print("Ввести число a :")
+a=float(input())
+print("Ввести число b :")
+b=float(input())
+print("Ввести число c :")
+c=float(input())
+d=a+b+c
+print("Сума трьох чисел :", d)
+k=int(input())
